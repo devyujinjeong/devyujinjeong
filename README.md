@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devyujinjeong)
+skills
+<img src="https://img.shields.io/badge/#111111?style=flat-square&logo=simpleicons_JAVA&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact)
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&theme=vue&show_icons=true"/></a>
 </p>
