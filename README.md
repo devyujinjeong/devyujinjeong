@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-skills
-<img src="https://img.shields.io/badge/#111111?style=flat-square&logo=simpleicons_JAVA&logoColor=white"/>
+👋Jeong Yujin👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact)
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&theme=vue&show_icons=true"/></a>
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173)](https://solved.ac/dbwls89173/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&theme=vue&show_icons=true"/></a>
+
