@@ -1,24 +1,33 @@
-# 👋Jeong Yujin👋
+<h1 align="center">👋 Jeong Yujin 👋</h1>
 
-<!--
-**devyujinjeong/devyujinjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Welcome to my GitHub ! 👋</p>
 
-Here are some ideas to get you started:
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&show_icons=true&theme=vue" width="400px"/>
+    </td>
+    <td align="center">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173" width="400px"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 📚 Education
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact)
+- 2025.01 ~ | 한화시스템 Beyond Camp 15기
+- 2020.03 ~ 2025.02 | Kyunghee University, Mathematics
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173)](https://solved.ac/dbwls89173/)
+### 🖥️ Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&theme=vue&show_icons=true"/></a>
+<div align="center">
+  <a href="https://www.solve-nyang.com">
+    <img src="https://api.solve-nyang.com/compose/dbwls89173" width="600" height="300"/>
+  </a>
+</div>
 
