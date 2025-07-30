@@ -1,6 +1,6 @@
 <h1 align="center">👋 Jeong Yujin 👋</h1>
 
-<p align="center">Welcome to my GitHub ! 👋</p>
+<p align="center">안녕하세요. 백엔드 개발자 지망생 정유진입니다. 👋</p>
 
 <table align="center">
   <tr>
@@ -17,7 +17,7 @@
 
 ### 📚 Education
 
-- 2025.01 ~ | 한화시스템 Beyond Camp 15기
+- 2025.01.21 ~ 2025.07.21 | 한화시스템 Beyond Camp 15기
 - 2020.03 ~ 2025.02 | Kyunghee University, Mathematics
 
 ### 🖥️ Stack
