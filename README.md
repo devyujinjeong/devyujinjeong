@@ -21,6 +21,10 @@
 <br>
 
 ## 🖥️ Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact" />
+</div>
+
 #### Backend
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -54,10 +58,6 @@
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact" />
 </div>
 
 <br>
