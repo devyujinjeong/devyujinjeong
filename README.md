@@ -93,9 +93,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&show_icons=true&theme=vue" width="400px"/>
     </td>
     <td align="center">
-      <a href="https://www.solve-nyang.com">
-        <img src="https://api.solve-nyang.com/compose/dbwls89173" width="600" height="300"/>
-      </a>
-    <td>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173" width="400px"/>
+    </td>
   </tr>
 </table>
