@@ -15,7 +15,6 @@
 
 ## 🎓 Education
 -  2023.03 ~ 2023.09 | 코리아IT아카데미 백엔드 양성과정 (주말반) 
--  2020.03 ~ 2025.02 | Kyunghee University, Mathematics
 -  2025.01 ~ 2025.07 | 한화시스템 BEYOND SW CAMP 15기
 
 <br>
