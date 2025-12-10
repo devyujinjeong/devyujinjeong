@@ -20,10 +20,6 @@
 <br>
 
 ## 🖥️ Stack
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact" />
-</div>
-
 #### Backend
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -102,12 +98,7 @@
 
 ## ✨ Github & Algorithm
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&show_icons=true&theme=vue" width="400px"/>
-    </td>
-    <td align="center">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173" width="400px"/>
-    </td>
-  </tr>
+  <td align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173" width="400px"/>
+  </td>
 </table>
