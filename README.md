@@ -74,11 +74,6 @@
 <br>
 
 ## 👨🏻‍💻 Project Summary
-- **2023.08 ~ 2023.09 ☕**  [OSCA](https://github.com/devyujinjeong/spring-osca)
-    - 스터디 매칭 및 커뮤니티 기반 학습 습관 형성 플랫폼
-    - 원하는 조건의 카페에서 스터디를 찾고, 참여하거나 모집 가능
-    - Spring Boot 기반의 카페 즐겨찾기 기능 및 UI 설계, 프로젝트 진행 총괄(팀장)
-
 - **2025.03 ~ 2025.05 📕** Book적Book적 [BE](https://github.com/devyujinjeong/jamjam-bookjeokbookjeok-BE), [FE](https://github.com/devyujinjeong/jamjam-bookjeokbookjeok-FE)
   - 책 검색, 구매, 리뷰, 커뮤니티를 통합한 독서 플랫폼
   - 팔로우/팔로워 기능 및 관심 작가/도서 백엔드(Spring Boot)와 프론트엔드(Vue.js) 개발, Gmail SMTP 연동으로 비밀번호 재설정 기능 구현, MSA 구조 설정
